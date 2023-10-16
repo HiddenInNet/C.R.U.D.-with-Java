@@ -1,6 +1,6 @@
 # C.R.U.D.-with-Java
 
-This code allows you to make the necessary modifications to a database to be able to manage it from a server (Apache TomCat).
+In this section I am going to show you how we can perform the main operations in a database (C.R.U.D.) using Java
 
 * **C** -> reate
 * **R** -> ead
